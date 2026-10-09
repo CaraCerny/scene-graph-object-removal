@@ -193,8 +193,8 @@ The scenes were built with [ConceptGraphs](https://github.com/concept-graphs/con
 [living-room capture, sofa sequence](https://huggingface.co/datasets/simkoc/Remove360/tree/main/living-room/sofa/train),
 of the [Remove360](https://huggingface.co/datasets/simkoc/Remove360) dataset and then edited
 by hand: objects and relations were added, some positions were adjusted, and some relations
-were relabelled. They are test scenes and not unmodified output of that pipeline. If you use
-them, please also cite ConceptGraphs and
+were relabelled. They are test scenes and not unmodified output of that pipeline. If you use them, please also cite
+[ConceptGraphs](https://concept-graphs.github.io/assets/pdf/2023-ConceptGraphs.pdf) and
 [Remove360](https://arxiv.org/abs/2508.11431).
 
 ## Assumptions and limitations
