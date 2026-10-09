@@ -1,0 +1,83 @@
+{
+  
+  "object_7": {
+    "id": 29,
+    "object_tag": "folded chair",
+    "object_caption": "A folded beige chair.",
+    "bbox_extent": [
+      1.5,
+      1.16,
+      0.77
+    ],
+    "bbox_center": [
+      3.82,
+      2.56,
+      -3.76
+    ],
+    "bbox_volume": 1.34
+  },
+  "object_8": {
+    "id": 37,
+    "object_tag": "closet door",
+    "object_caption": "A plain closet wall.",
+    "bbox_extent": [
+      3.87,
+      1.4,
+      0.13
+    ],
+    "bbox_center": [
+      4.93,
+      1.77,
+      -5.11
+    ],
+    "bbox_volume": 0.7
+  },
+  "object_9": {
+    "id": 41,
+    "object_tag": "dining table",
+    "object_caption": "A round wooden dining table in the middle of the room.",
+    "bbox_extent": [
+      1.85,
+      1.77,
+      0.82
+    ],
+    "bbox_center": [
+      3.08,
+      2.11,
+      -3.01
+    ],
+    "bbox_volume": 2.69
+  },
+  "object_12": {
+    "id": 51,
+    "object_tag": "chair",
+    "object_caption": "A pink upholstered chair near the dining table.",
+    "bbox_extent": [
+      1.96,
+      1.57,
+      1.14
+    ],
+    "bbox_center": [
+      2.32,
+      2.42,
+      -2.41
+    ],
+    "bbox_volume": 3.51
+  },
+  "object_35": {
+    "id": 295,
+    "object_tag": "chair",
+    "object_caption": "A light-colored folded chair leaning near the dining table.",
+    "bbox_extent": [
+      1.73,
+      1.18,
+      1.03
+    ],
+    "bbox_center": [
+      2.28,
+      2.73,
+      -3.59
+    ],
+    "bbox_volume": 2.1
+  }
+}

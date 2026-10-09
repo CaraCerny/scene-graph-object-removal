@@ -1,0 +1,9 @@
+name: object_removal
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.6
+  - networkx=3.6.1        # remove_object.py
+  - pip
+  - pip:
+      - openai==2.45.0    # evaluate_graph.py, qualitative assessment only

@@ -1,0 +1,4 @@
+out/
+__pycache__/
+check_against_experiments.py
+.DS_Store

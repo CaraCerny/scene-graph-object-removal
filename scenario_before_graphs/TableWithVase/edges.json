@@ -1,0 +1,52 @@
+{
+  "edge_1": {
+    "edge_id": 1,
+    "edge_description": "chair below dining table",
+    "num_detections": 2,
+    "object_1_id": 51,
+    "object_1_tag": "chair",
+    "object_2_id": 41,
+    "object_2_tag": "dining table",
+    "relationship": "below"
+  },
+  "edge_2": {
+    "edge_id": 2,
+    "edge_description": "folded chair next to dining table",
+    "num_detections": 1,
+    "object_1_id": 29,
+    "object_1_tag": "folded chair",
+    "object_2_id": 41,
+    "object_2_tag": "dining table",
+    "relationship": "next to"
+  },
+  "edge_3": {
+    "edge_id": 3,
+    "edge_description": "chair below dining table",
+    "num_detections": 2,
+    "object_1_id": 295,
+    "object_1_tag": "chair",
+    "object_2_id": 41,
+    "object_2_tag": "dining table",
+    "relationship": "below"
+  },
+  "edge_4": {
+    "edge_id": 4,
+    "edge_description": "closet door behind folded chair",
+    "num_detections": 1,
+    "object_1_id": 37,
+    "object_1_tag": "closet door",
+    "object_2_id": 29,
+    "object_2_tag": "folded chair",
+    "relationship": "behind"
+  },
+  "edge_26": {
+    "edge_id": 26,
+    "edge_description": "vase on top of dining table",
+    "num_detections": 1,
+    "object_1_id": 400,
+    "object_1_tag": "vase",
+    "object_2_id": 41,
+    "object_2_tag": "dining table",
+    "relationship": "on top of"
+}
+}

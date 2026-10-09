@@ -1,0 +1,98 @@
+{
+  "object_1": {
+    "id": 1,
+    "object_tag": "stool",
+    "object_caption": "A small wooden stool or bench near the wall.",
+    "bbox_extent": [
+      1.48,
+      1.45,
+      1.17
+    ],
+    "bbox_center": [
+      1.72,
+      1.32,
+      1.31
+    ],
+    "bbox_volume": 2.51
+  },
+  "object_6": {
+    "id": 12,
+    "object_tag": "coffee maker",
+    "object_caption": "A silver coffee maker or espresso machine on the right-side cabinet.",
+    "bbox_extent": [
+      0.81,
+      0.54,
+      0.44
+    ],
+    "bbox_center": [
+      3.2,
+      0.175,
+      -0.8
+    ],
+    "bbox_volume": 0.19
+  },
+  "object_14": {
+    "id": 57,
+    "object_tag": "cabinet",
+    "object_caption": "A small white cabinet or storage unit near the kitchen, beneath the coffee maker and TV area.",
+    "bbox_extent": [
+      2.22,
+      1.89,
+      0.84
+    ],
+    "bbox_center": [
+      2.92,
+      1.39,
+      -0.55
+    ],
+    "bbox_volume": 3.52
+  },
+  "object_38": {
+    "id": 339,
+    "object_tag": "shoe",
+    "object_caption": "A shoe on the floor near the bench.",
+    "bbox_extent": [
+      0.59,
+      0.58,
+      0.13
+    ],
+    "bbox_center": [
+      1.49,
+      1.46,
+      2.25
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_41": {
+    "id": 359,
+    "object_tag": "laundry basket",
+    "object_caption": "A white laundry basket or hamper near the left side.",
+    "bbox_extent": [
+      1.4,
+      0.8,
+      0.12
+    ],
+    "bbox_center": [
+      3.14,
+      2.02,
+      -1.32
+    ],
+    "bbox_volume": 0.13
+  },
+  "object_43": {
+    "id": 400,
+    "object_tag": "coffee cup",
+    "object_caption": "A small ceramic coffee cup on top of the coffee maker.",
+    "bbox_extent": [
+      0.22,
+      0.26,
+      0.22
+    ],
+    "bbox_center": [
+      3.12,
+      -0.225,
+      -0.74
+    ],
+    "bbox_volume": 0.01
+  }
+}

@@ -1,0 +1,63 @@
+{
+  
+  "edge_12": {
+    "edge_id": 12,
+    "edge_description": "coffee maker on top of cabinet",
+    "num_detections": 1,
+    "object_1_id": 12,
+    "object_1_tag": "coffee maker",
+    "object_2_id": 57,
+    "object_2_tag": "cabinet",
+    "relationship": "on top of"
+  },
+  "edge_20": {
+    "edge_id": 20,
+    "edge_description": "stool next to shoe",
+    "num_detections": 1,
+    "object_1_id": 1,
+    "object_1_tag": "stool",
+    "object_2_id": 339,
+    "object_2_tag": "shoe",
+    "relationship": "next to"
+  },
+  "edge_24": {
+    "edge_id": 24,
+    "edge_description": "stool next to laundry basket",
+    "num_detections": 1,
+    "object_1_id": 1,
+    "object_1_tag": "stool",
+    "object_2_id": 359,
+    "object_2_tag": "laundry basket",
+    "relationship": "next to"
+  },
+  "edge_26": {
+    "edge_id": 26,
+    "edge_description": "coffee maker under coffee cup",
+    "num_detections": 1,
+    "object_1_id": 12,
+    "object_1_tag": "coffee maker",
+    "object_2_id": 400,
+    "object_2_tag": "coffee cup",
+    "relationship": "under"
+  },
+  "edge_27": {
+    "edge_id": 27,
+    "edge_description": "laundry basket next to cabinet",
+    "num_detections": 1,
+    "object_1_id": 359,
+    "object_1_tag": "laundry basket",
+    "object_2_id": 57,
+    "object_2_tag": "cabinet",
+    "relationship": "next to"
+  },
+  "edge_28": {
+    "edge_id": 28,
+    "edge_description": "cabinet next to stool",
+    "num_detections": 1,
+    "object_1_id": 57,
+    "object_1_tag": "cabinet",
+    "object_2_id": 1,
+    "object_2_tag": "stool",
+    "relationship": "next to"
+  }
+}

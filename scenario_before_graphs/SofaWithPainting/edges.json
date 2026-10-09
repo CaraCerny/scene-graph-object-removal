@@ -1,0 +1,52 @@
+{
+  "edge_17": {
+    "edge_id": 17,
+    "edge_description": "potted plant in front of couch",
+    "num_detections": 1,
+    "object_1_id": 99,
+    "object_1_tag": "potted plant",
+    "object_2_id": 228,
+    "object_2_tag": "couch",
+    "relationship": "in front of"
+  },
+  "edge_23": {
+    "edge_id": 23,
+    "edge_description": "pillow on top of couch",
+    "num_detections": 1,
+    "object_1_id": 243,
+    "object_1_tag": "pillow",
+    "object_2_id": 228,
+    "object_2_tag": "couch",
+    "relationship": "on top of"
+  },
+  "edge_26": {
+    "edge_id": 26,
+    "edge_description": "pillow on top of couch",
+    "num_detections": 1,
+    "object_1_id": 49,
+    "object_1_tag": "pillow",
+    "object_2_id": 228,
+    "object_2_tag": "couch",
+    "relationship": "on top of"
+  },
+  "edge_27": {
+    "edge_id": 27,
+    "edge_description": "lamp next to couch",
+    "num_detections": 1,
+    "object_1_id": 220,
+    "object_1_tag": "lamp",
+    "object_2_id": 228,
+    "object_2_tag": "couch",
+    "relationship": "next to"
+  },
+    "edge_28": {
+    "edge_id": 28,
+    "edge_description": "painting above couch",
+    "num_detections": 1,
+    "object_1_id": 400,
+    "object_1_tag": "painting",
+    "object_2_id": 228,
+    "object_2_tag": "couch",
+    "relationship": "above"
+  }
+}
